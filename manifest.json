@@ -1,0 +1,15 @@
+{
+  "name": "ZENITH AUTO PARTS - POS",
+  "short_name": "Zenith POS",
+  "description": "အင်ဂျင်ဝိုင် / ကားအလှဆင်ပစ္စည်းဆိုင် POS system",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#161b2e",
+  "theme_color": "#161b2e",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any maskable" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any maskable" }
+  ]
+}
